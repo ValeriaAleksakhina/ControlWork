@@ -1,0 +1,15 @@
+C:\GEEKBRAINS\ControlWork\ControlTask\bin\Debug\net6.0\ControlTask.exe
+C:\GEEKBRAINS\ControlWork\ControlTask\bin\Debug\net6.0\ControlTask.deps.json
+C:\GEEKBRAINS\ControlWork\ControlTask\bin\Debug\net6.0\ControlTask.runtimeconfig.json
+C:\GEEKBRAINS\ControlWork\ControlTask\bin\Debug\net6.0\ControlTask.dll
+C:\GEEKBRAINS\ControlWork\ControlTask\bin\Debug\net6.0\ControlTask.pdb
+C:\GEEKBRAINS\ControlWork\ControlTask\obj\Debug\net6.0\ControlTask.csproj.AssemblyReference.cache
+C:\GEEKBRAINS\ControlWork\ControlTask\obj\Debug\net6.0\ControlTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\GEEKBRAINS\ControlWork\ControlTask\obj\Debug\net6.0\ControlTask.AssemblyInfoInputs.cache
+C:\GEEKBRAINS\ControlWork\ControlTask\obj\Debug\net6.0\ControlTask.AssemblyInfo.cs
+C:\GEEKBRAINS\ControlWork\ControlTask\obj\Debug\net6.0\ControlTask.csproj.CoreCompileInputs.cache
+C:\GEEKBRAINS\ControlWork\ControlTask\obj\Debug\net6.0\ControlTask.dll
+C:\GEEKBRAINS\ControlWork\ControlTask\obj\Debug\net6.0\refint\ControlTask.dll
+C:\GEEKBRAINS\ControlWork\ControlTask\obj\Debug\net6.0\ControlTask.pdb
+C:\GEEKBRAINS\ControlWork\ControlTask\obj\Debug\net6.0\ControlTask.genruntimeconfig.cache
+C:\GEEKBRAINS\ControlWork\ControlTask\obj\Debug\net6.0\ref\ControlTask.dll
